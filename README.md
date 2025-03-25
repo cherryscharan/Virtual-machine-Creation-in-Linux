@@ -93,8 +93,13 @@ chmod +x myscript.sh
 ## OUTPUT
 ### REG NUMBER:212223220015
 ### NAME:CHARAN KUMAR S
+## Configuration of Kali Linux on Oracle Virtual Box :
+![421271430-62dc95d9-448f-482e-a1c9-290de58ace39](https://github.com/user-attachments/assets/597afcb8-747c-4886-a555-5581d0dd8ae0)
 
- ![419299687-b50a9a94-cfb0-4bae-a8af-8bc6a1034d47](https://github.com/user-attachments/assets/d5949137-fbda-497e-a051-e35d260f5669)
+# Output:
+![421271679-7f5eb7f3-0c2d-4a39-979c-5188a95e66ec](https://github.com/user-attachments/assets/fd1c129b-4c31-4459-a185-0431d96086a8)
+
+![421271760-93f0d528-e05e-4cb5-8850-7d142ec7b220](https://github.com/user-attachments/assets/9fc8863a-c134-4918-93ba-bdd5028fb139)
 
 ## RESULT
  
